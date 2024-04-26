@@ -1,4 +1,4 @@
-# Diverrsity-Inclusion-Analysis
+# Diversity-Inclusion-Analysis
 
 Diversity and inclusion analysis using Power BI involves leveraging the capabilities of the Power BI platform to visualize and analyze data related to diversity and inclusion within an organization or community. Here's how you can approach it:
 
