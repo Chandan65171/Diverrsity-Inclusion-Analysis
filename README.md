@@ -16,6 +16,7 @@ Diversity and inclusion analysis using Power BI involves leveraging the capabili
 ⚫ Utilize Power BI's visualization tools to create visual representations of the data.
 
 ⚫ Create charts, graphs, and dashboards to display key metrics and insights related to diversity and inclusion.
+
   ✨ Examples of visualizations include:
   
 ⚫ Bar charts showing the distribution of employees by gender, ethnicity, or age group.
